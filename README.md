@@ -1,2 +1,2 @@
 # This repository is used for storing large files, models, and data.
---workspace=1024 --minShapes=input.1:1x3x112x112 --optShapes=input.1:1x3x112x112 --maxShapes=input.1:1x3x112x112 --buildOnly --saveEngine=face_recognition.engine
+https://drive.google.com/file/d/1-sRBMrzc-wRcw-ygY3_Ihht5weyV9fmY/view?usp=share_link
